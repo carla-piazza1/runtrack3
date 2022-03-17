@@ -8,12 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-        <select name="type" id="type">
-    
-        </select>
-    
-        <button id="filter" type='filter'> Filtrer </button>
-    <ul>
-    </ul>
+    <select name="type" id="type">
+    </select>
+    <button id='filter'> Filtrer </button>
+    <button id='reset'> Reset </button>
 </body>
 </html>
